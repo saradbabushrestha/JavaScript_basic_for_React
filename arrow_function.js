@@ -1,21 +1,7 @@
-export default function DoSomethig() {
-
-
-}
+export default function DoSomethig() {}
 // arrow function
-export const DoSomethig = () =>{
+export const DoSomethig = () => {};
 
-}
-
-const MyComputer = () =>{
-    return<div></div>
-}
-
-
-
-
-
-
-
-
-
+const MyComputer = () => {
+  return <div></div>;
+};

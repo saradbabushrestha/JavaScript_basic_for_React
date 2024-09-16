@@ -1,4 +1,3 @@
-
 // //ternary operator
 // let age = 10;
 // let name = "Sarad";
@@ -12,8 +11,8 @@
 // let age = 16;
 // let name =  age >10 && "Sarad";
 // let name =  age >10 || "Sarad";
-let name =  age >10 ? "Sarad" : "Ram"; //if else
+let name = age > 10 ? "Sarad" : "Ram"; //if else
 
-const Component = ()=>{
-    return age > 10 ? <div> Sarad</div> : <div>Ram</div>;
-}
+const Component = () => {
+  return age > 10 ? <div> Sarad</div> : <div>Ram</div>;
+};
